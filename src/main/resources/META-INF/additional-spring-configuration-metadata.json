@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "data.sms.cmcc.url",
+      "type": "java.lang.String",
+      "sourceType": "com.data.sms.cmcc.properties.CmccSmsProperties",
+      "description": "中国移动短信中心sdk登陆地址.",
+      "defaultValue": "http://mas.ecloud.10086.cn/app/sdk/login"
+    },
+    {
+      "name": "data.sms.cmcc.username",
+      "type": "java.lang.String",
+      "sourceType": "com.data.sms.cmcc.properties.CmccSmsProperties",
+      "description": "中国移动短信中心账号."
+    },
+    {
+      "name": "data.sms.cmcc.password",
+      "type": "java.lang.String",
+      "sourceType": "com.data.sms.cmcc.properties.CmccSmsProperties",
+      "description": "中国移动短信中心密码."
+    },
+    {
+      "name": "data.sms.cmcc.company",
+      "type": "java.lang.String",
+      "sourceType": "com.data.sms.cmcc.properties.CmccSmsProperties",
+      "description": "中国移动短信中心公司."
+    }
+  ]
+}
